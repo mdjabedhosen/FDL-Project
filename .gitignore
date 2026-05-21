@@ -2,3 +2,15 @@
 
 # Local cache and OS files
 .DS_Store
+
+# Data files (too large for GitHub)
+Dataset/*.mat
+Dataset/*.html
+Preprocessing/*.npz
+
+# Trained model weights
+Model/*.pth
+*.pth
+
+# Stray images in Preprocessing/
+Preprocessing/*.png
