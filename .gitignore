@@ -1,9 +1,4 @@
 .ipynb_checkpoints/
 
-# Large data/model artifacts
-*.mat
-*.npz
-*.pth
-
 # Local cache and OS files
 .DS_Store

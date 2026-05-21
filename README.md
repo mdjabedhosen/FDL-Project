@@ -19,7 +19,7 @@ CIFAR-10 preprocessing, training, and evaluation notebooks for the Deep Learning
 
 - `Preprocessing/cifar10_preprocessing.ipynb` - main preprocessing pipeline: load dataset, upscale, denoise, apply CLAHE, sharpen, augment, normalize, and export for ResNet training notebook 
 - `Preprocessing/cifar10_preprocessing_v2.ipynb` - earlier preprocessing version
-- `Preprocessing/cifar10_preprocessing_v3.ipynb` - later preprocessing version for CNN training notebook and  transfer learning notebook
+- `Preprocessing/cifar10_preprocessing_v3.ipynb` - later preprocessing version with out upscale for CNN training notebook and  transfer learning notebook
 - `Model/cifar10_cnn_training.ipynb` - CNN training notebook
 - `Model/cifar10_resnet_training.ipynb` - ResNet training notebook
 - `Model/cifar10_transfer_learning.ipynb` - transfer learning notebook
