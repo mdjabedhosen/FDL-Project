@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ignore Claude files/directories
+*.claude
+.claude/
+
+# Keep repository files; do not broadly ignore other content
