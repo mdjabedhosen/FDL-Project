@@ -1,13 +1,14 @@
 # macOS
 .DS_Store
 
+# R
+.Rhistory
+
 # Python
 __pycache__/
 *.py[cod]
 *.py
 
-# Jupyter
-.ipynb_checkpoints/
 
 # Ignore Claude files/directories
 *.claude
