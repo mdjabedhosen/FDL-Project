@@ -1,0 +1,12 @@
+tensorflow
+numpy
+scikit-learn
+matplotlib
+scipy
+pillow
+opencv-python
+h5py
+jupyter
+notebook
+scikit-image
+ipython
