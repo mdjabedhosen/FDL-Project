@@ -15,3 +15,21 @@ __pycache__/
 .claude/
 
 # Keep repository files; do not broadly ignore other content
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Model and dataset caches
+*.h5
+*.ckpt
+*.npz
+cifar10_preprocessed.npz
